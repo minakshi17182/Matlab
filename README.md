@@ -16,3 +16,6 @@ l
 vs frequency plot (f ). Values of R=yy Ohms, as
 discussed in Question 1, L = 0.01 H, and C = 10−6 F. Range of frequency
 to be used [0 1000] Hz with step size of 10.
+4. Plot magnitude and phase responses of Butterworth low pass filter. Use
+the equations for magnitude and phase of transfer function of filter from
+slides.
