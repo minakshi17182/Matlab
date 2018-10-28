@@ -19,3 +19,6 @@ to be used [0 1000] Hz with step size of 10.
 4. Plot magnitude and phase responses of Butterworth low pass filter. Use
 the equations for magnitude and phase of transfer function of filter from
 slides.
+5. Generate (a) shifted unit impulse δ(n−5), (b) unit step with length equal
+to 10, (c) decaying exponential with decaying factor ‘yy ’as discussed in
+Q. 1. Length of x = 100 starting from 0.
